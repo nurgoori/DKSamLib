@@ -1,4 +1,4 @@
-package com.kbstar.dksamplelib
+package co.kr.dk.dksamplelib
 
 import org.junit.Test
 
